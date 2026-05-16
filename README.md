@@ -10,6 +10,10 @@ The system supports multiple output layouts (ATS and Pretty) derived from a sing
 
 ---
 
+## Requirements
+
+- QuestPDF preview tool installed (for document preview and debugging)
+
 ## Documentation Index
 
 ### Core Concepts
@@ -66,3 +70,4 @@ Both modes are generated from the same structured JSON input.
 5. docs/themes.md
 
 ---
+
