@@ -1,0 +1,126 @@
+{
+    "fullName": "Francisco Hidalgo Alcaide",
+    "title": "Desarrollador Full Stack (.NET Core / Angular / React)",
+    "contact": {
+        "phone": "642 305 454",
+        "email": "franhidalc@gmail.com",
+        "gitHub": "github.com/pac0455",
+        "linkedIn": "linkedin.com/in/francisco-hidalgo-alcaide-239054271"
+    },
+    "profile": "Desarrollador Full Stack especializado en entornos .NET, con experiencia en desarrollo de aplicaciones empresariales, APIs REST y GraphQL, y sistemas de gestión basados en ERP. Acostumbrado a trabajar en entornos productivos bajo metodologías ágiles (Scrum/Kanban), con foco en escalabilidad, rendimiento y mantenibilidad. Experiencia en integración de sistemas, bases de datos relacionales y despliegues en entornos Windows Server (IIS).",
+    "jobs": [
+        {
+            "title": "Desarrollador Full Stack",
+            "company": "Iconos Software S.L",
+            "period": "Mar 2025 - Presente (iniciado en prácticas y posteriormente contratado)",
+            "location": "Córdoba, España",
+            "tasks": [
+                "Desarrollo y mantenimiento de APIs REST con .NET para sistemas internos y servicios empresariales",
+                "Integración de APIs GraphQL (Shopify) en soluciones backend .NET",
+                "Desarrollo frontend con Angular y Vue.js en aplicaciones SaaS",
+                "Diseño e implementación de lógica de negocio en SQL Server (T-SQL y procedimientos almacenados)",
+                "Modelado, mantenimiento y optimización de bases de datos en SQL Server y MySQL",
+                "Despliegue y mantenimiento de aplicaciones en IIS sobre Windows Server",
+                "Desarrollo de backoffice en PHP para integración con WordPress y plataformas editoriales (Dilve)",
+                "Optimización de rendimiento de consultas SQL y refactorización de sistemas legacy",
+                "Participación activa en la evolución y mantenimiento de un ERP de gestión y contabilidad, incluyendo análisis funcional y soporte de procesos críticos de negocio (facturación, tickets, TPV, cuentas contables y circuitos administrativos)",
+                "Trabajo en equipos multidisciplinares bajo Scrum/Kanban y control de versiones con Git"
+            ],
+            "tech": [
+                ".NET",
+                "ASP.NET Core",
+                "API REST",
+                "GraphQL",
+                "SQL Server",
+                "MySQL",
+                "Angular",
+                "Vue.js",
+                "PHP",
+                "WordPress",
+                "IIS",
+                "Git",
+                "ERP"
+            ]
+        },
+        {
+            "title": "Desarrollador Full Stack (Prácticas DAW)",
+            "company": "Signlab",
+            "period": "2024",
+            "location": "Córdoba, España",
+            "tasks": [
+                "Mantenimiento y evolución de aplicaciones en CodeIgniter y Vue.js con mejoras de CSS y adaptación de plantillas frontend",
+                "Diseño de esquemas SQL y modelado de datos para implementación backend y generación de endpoints",
+                "Desarrollo full stack de funcionalidades completas (JavaScript → PHP → base de datos) a partir de modelos propios",
+                "Control de versiones con Git (Treesource) en coordinación de equipo",
+                "Mantenimiento correctivo y evolutivo de aplicaciones existentes"
+            ],
+            "tech": [
+                "PHP",
+                "CodeIgniter",
+                "Vue.js",
+                "JavaScript",
+                "CSS",
+                "SQL",
+                "Git",
+                "Treesource"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "title": "FP Superior - Desarrollo de Aplicaciones Multiplataforma (DAM)",
+            "institution": "IES Trasierra"
+        },
+        {
+            "title": "FP Superior - Desarrollo de Aplicaciones Web (DAW)",
+            "institution": "MEDAC"
+        },
+        {
+            "title": "FP Medio - Sistemas Microinformáticos y Redes (SMR)",
+            "institution": "IES Medina Azahara"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Backend",
+            "items": [
+                ".NET / ASP.NET Core",
+                "Entity Framework",
+                "APIs REST",
+                "GraphQL"
+            ]
+        },
+        {
+            "name": "Bases de Datos",
+            "items": [
+                "SQL Server (T-SQL, optimización, procedimientos almacenados)",
+                "MySQL"
+            ]
+        },
+        {
+            "name": "Frontend",
+            "items": [
+                "Angular",
+                "Vue.js",
+                "React",
+                "HTML / CSS / JavaScript"
+            ]
+        },
+        {
+            "name": "DevOps / Herramientas",
+            "items": [
+                "Git",
+                "IIS (deploy y mantenimiento)",
+                "Crystal Reports"
+            ]
+        },
+        {
+            "name": "Sistemas de negocio",
+            "items": [
+                "ERP de gestión y contabilidad (análisis funcional)",
+                "Procesos de facturación, TPV, tickets y contabilidad general",
+                "Integración de sistemas empresariales"
+            ]
+        }
+    ]
+}
